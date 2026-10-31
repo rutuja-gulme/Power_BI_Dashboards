@@ -1,4 +1,4 @@
-# Data Jobs Dashboard Power BI
+# Global Data Analyst Job Market & Salary Intelligence Dashboard (Power BI)
 
 ![Dashboard Page 1](/images/Project1_Page1.png)
 
